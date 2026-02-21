@@ -1,4 +1,4 @@
-# fatima-bioinfo# Hi 👋 I'm Fatima
+Hi 👋 I'm Fatima
 
 🧬 **BS Bioinformatics Student | Aspiring Bioinformatician | Pakistan**  
 💻 **Currently Learning:** Python & R | AI, Machine Learning & Data Science  
@@ -26,7 +26,7 @@
 | Student Portal | Project for managing student info & grades | C++ | Completed |
 | Potato Disease Classification | ML project to classify potato diseases using images | Python, ML | Completed |
 | Data Structures Practice | Implemented AVL & BST trees for data management | Python | Completed |
-| Wheat Stress Analysis | Bioinformatics project analyzing wheat stress response | PlantCARE, PyMOL, Ensembl, PDB, AlphaFold | In Progress |
+| Wheat Stress Analysis | Bioinformatics project analyzing wheat stress response | PlantCARE, PyMOL, Ensembl, PDB, AlphaFold | Completed |
 | Protein-Protein Interaction Network | Graph-based approach for PPI analysis | Python, NetworkX | Planned |
 | Python & R Practice | Learning programming & data analysis | Python, R | Ongoing |
 

@@ -18,14 +18,18 @@
 
 ---
 
-## 📂 Current & Upcoming Projects
+## 📂 Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| Protein-Protein Interaction Network | Graph-based approach for PPI analysis | In Progress |
-| Python & R Practice | Learning programming & data analysis | Ongoing |
-| AI/ML Mini Projects | Implementing ML models for data prediction | Planned |
-| Needleman-Wunsch Algorithm | Sequence alignment in Python | Completed |
+| Project | Description | Technology / Tools | Status |
+|---------|-------------|-----------------|--------|
+| Library Management System | OOP project for managing books, students & borrowing | Java | Completed |
+| Student Portal | Project for managing student info & grades | C++ | Completed |
+| Potato Disease Classification | ML project to classify potato diseases using images | Python, ML | Completed |
+| Data Structures Practice | Implemented AVL & BST trees for data management | Python | Completed |
+| Wheat Stress Analysis | Bioinformatics project analyzing wheat stress response | PlantCARE, PyMOL, Ensembl, PDB, AlphaFold | In Progress |
+| Protein-Protein Interaction Network | Graph-based approach for PPI analysis | Python, NetworkX | Planned |
+| Python & R Practice | Learning programming & data analysis | Python, R | Ongoing |
+
 
 ---
 
